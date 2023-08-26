@@ -15,7 +15,7 @@ def backspace():
         file.write(new_content)
         file.truncate()
 
-# ---------- Send Mail Function with smtp library
+# ---------- Send Mail Function with smtp library ----------
 def send_email(subject, message, from_email, to_email, smtp_server, smtp_port, smtp_username, smtp_password):
     msg = MIMEMultipart()
     msg['From'] = from_email
