@@ -12,6 +12,13 @@ Please install the library required
     pip install -r requirements.txt
 ```
 
+## To do
+- act on the line: 31
+- act on the line: 74
+- act on the line: 109
+- act on the line: 112-120
+
+
 ## Guide to get your own SMTP password (gmail)
 
 ### NOTE: Need an account created before May 30, 2022.
