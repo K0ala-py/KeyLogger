@@ -26,3 +26,8 @@ Go to https://security.google.com/settings/security/apppasswords and select App 
 
 ## Info
 Enter same username in "from_email", "to_mail" and "smtp_username"
+
+## Change Log
+- 1.0: added file keylogger.py (localhost version)
+- 2.0: added file keylogger.py (mail version)
+- 3.0: added possibility for converting and encrypting in PDF file
